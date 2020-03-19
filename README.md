@@ -1,6 +1,8 @@
-## ReactJS Boilerplate
+<img src="../public/github_Banner.jpg" alt="react boilerplate banner" align="center" />
 
-Boilerplate repo for starting ReactJS apps. Mostly for personal use and sandboxing, though also potentially a nice resource for beginners to get to know React and a lot of the supporting libraries (bootstrap, redux, etc.)
+## React With Redux Boilerplate
+
+This repository will help tp start ReactJS app with the help of redux state managment.
 
 ### Features
 
