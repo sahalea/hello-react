@@ -1,4 +1,4 @@
-<img src="../public/github_Banner.jpg" alt="react boilerplate banner" align="center" />
+<img src="./public/github_Banner.jpg" alt="react boilerplate banner" align="center" />
 
 ## React With Redux Boilerplate
 
