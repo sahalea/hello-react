@@ -2,7 +2,7 @@
 
 ## React With Redux Boilerplate
 
-This repository will help tp start ReactJS app with the help of redux state managment.
+This repository will help to updated start ReactJS app with the help of redux state managment.
 
 ### Features
 
