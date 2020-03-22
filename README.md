@@ -22,10 +22,6 @@ Write composable CSS that's co-located with your components for complete modular
 
 It's natural to want to add pages (e.g. `/`) to your application, and routing makes this possible.
 
-### React Bootstrap
-
-Built with compatibility in mind, we embrace our bootstrap core and strive to be compatible with the world's largest UI ecosystem
-
 ### How to Start
 
 - Clone the repo https://github.com/sahalea/hello-react.git
